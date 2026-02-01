@@ -44,11 +44,11 @@ Zsh is used as the default shell along with **zinit** as the plugin manager.
 
 ### Installed Zsh Plugins
 
-**zsh-autosuggestions** - Suggests previously used commands to reduce typing
-**zsh-syntax-highlighting** - Highlights valid/invalid command syntax before execution
-**zsh-history-substring-search** - Allows searching command history by partial input
-**fzf-tab** - Provides interactive fuzzy tab-completion
-**git (Oh-My-Zsh plugin)** Adds shortcuts and completion for Git
-**docker (Oh-My-Zsh plugin)** Improves productivity when working with Docker
+- **zsh-autosuggestions** - Suggests previously used commands to reduce typing
+- **zsh-syntax-highlighting** - Highlights valid/invalid command syntax before execution
+- **zsh-history-substring-search** - Allows searching command history by partial input
+- **fzf-tab** - Provides interactive fuzzy tab-completion
+- **git (Oh-My-Zsh plugin)** Adds shortcuts and completion for Git
+- **docker (Oh-My-Zsh plugin)** Improves productivity when working with Docker
 
 These plugins significantly improve command-line productivity by reducing typing, preventing errors, and speeding up navigation and command reuse.
