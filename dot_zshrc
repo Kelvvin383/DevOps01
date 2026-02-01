@@ -21,5 +21,17 @@ zinit light-mode for \
     zdharma-continuum/zinit-annex-rust
 
 ### End of Zinit's installer chunk
-export PATH="$HOME/.local/bin:$PATH"
+
+# ---- My plugins ----
+zinit light zsh-users/zsh-autosuggestions
+zinit light zsh-users/zsh-syntax-highlighting
+zinit light zsh-users/zsh-history-substring-search
+zinit light Aloxaf/fzf-tab
+
+# Git & Docker helpers
+zinit snippet OMZP::git
+zinit snippet OMZP::docker
+# ---------------------
+
+
 export PATH="$HOME/.local/bin:$PATH"
